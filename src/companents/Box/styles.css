@@ -1,0 +1,44 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background: #eee;
+    border: 10px solid black;
+    font-family: 'Finger Paint', cursive;
+    border-radius: 15px;
+    margin: 5px;
+
+    cursor: pointer;
+    font-size: 40px;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+
+}
+.box:hover{
+    background-color: gray;
+}
+.red{
+    color: red;
+}
+.red:hover{
+    color: white;
+    background-color: red;
+    
+}
+
+.blue{
+    color: blue;
+}
+
+.blue:hover{
+    color: white;
+    background-color: blue;
+}
+.winborderred{
+    border-color: red;
+}
+.winborderblue{
+    border-color: blue;
+}

@@ -1,0 +1,15 @@
+*{
+    background-color:#F3B18C;
+}
+div #game{
+    display: flex;
+    width: 100vw;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    
+}
